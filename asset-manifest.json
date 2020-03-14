@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ivargas1030/employeedirectory.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ivargas1030/employeedirectory.git/static/js/main.93bf94d0.chunk.js",
+    "main.js.map": "/ivargas1030/employeedirectory.git/static/js/main.93bf94d0.chunk.js.map",
+    "runtime-main.js": "/ivargas1030/employeedirectory.git/static/js/runtime-main.9f1ab6a6.js",
+    "runtime-main.js.map": "/ivargas1030/employeedirectory.git/static/js/runtime-main.9f1ab6a6.js.map",
+    "static/js/2.7434759e.chunk.js": "/ivargas1030/employeedirectory.git/static/js/2.7434759e.chunk.js",
+    "static/js/2.7434759e.chunk.js.map": "/ivargas1030/employeedirectory.git/static/js/2.7434759e.chunk.js.map",
+    "index.html": "/ivargas1030/employeedirectory.git/index.html",
+    "precache-manifest.fd201f475a04bd87c9c6de9e56d9edf6.js": "/ivargas1030/employeedirectory.git/precache-manifest.fd201f475a04bd87c9c6de9e56d9edf6.js",
+    "service-worker.js": "/ivargas1030/employeedirectory.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ivargas1030/employeedirectory.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7434759e.chunk.js.LICENSE.txt": "/ivargas1030/employeedirectory.git/static/js/2.7434759e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f1ab6a6.js",
+    "static/js/2.7434759e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.93bf94d0.chunk.js"
+  ]
+}
