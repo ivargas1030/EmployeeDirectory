@@ -3,7 +3,7 @@ import "./style.css";
 
 
 // Using the datalist element we can create autofill suggestions based on the props.breeds array
-function SearchForm(props) {
+function SearchBar(props) {
   return (
     <div class="active-pink-3 active-pink-4 mb-4">
     <input class="form-control" type="text" placeholder="Search" aria-label="Search">
@@ -17,4 +17,4 @@ function SearchForm(props) {
   );
 }
 
-export default SearchForm;
+export default SearchBar;
